@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+#lemmiwinks {
+  height: 400px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mega-font {
+  font-size: 128px;
+}
