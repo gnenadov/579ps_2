@@ -28,3 +28,11 @@ p {
 .mega-font {
   font-size: 128px;
 }
+
+#tests-link {
+  display: grid;
+  grid-template-rows: auto;
+  justify-items: center;
+  font-size: 128px;
+  color: yellow;
+}
